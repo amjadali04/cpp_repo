@@ -3,6 +3,8 @@
 using namespace std;
 int main(){
 	cout<<"Congratulations to your first code push on Github. ";
+	getch();
 	return 0;
 }
+
 
